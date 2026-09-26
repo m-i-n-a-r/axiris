@@ -1,0 +1,38 @@
+name: Bug report
+description: Something doesn't work as it should
+labels: [ "bug" ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this! Please search the existing issues first, it may already be known.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected and what happened instead. Screenshots or a screen recording help a lot.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can I reproduce it?
+      placeholder: |
+        1. Open ...
+        2. Spin the dial to ...
+        3. ...
+  - type: input
+    id: version
+    attributes:
+      label: Axiris version
+      description: You find it in Settings > About.
+      placeholder: "3.1"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone and Android version
+      placeholder: "Pixel 9, Android 16"
+    validations:
+      required: true

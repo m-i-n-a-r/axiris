@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Community on Reddit
+    url: https://www.reddit.com/r/axirislauncher/
+    about: Questions, setups, themes and chatting about Axiris
+  - name: Wiki
+    url: https://github.com/m-i-n-a-r/axiris/wiki
+    about: Answers to the most common questions

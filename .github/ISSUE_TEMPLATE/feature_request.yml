@@ -1,0 +1,20 @@
+name: Feature request
+description: An idea to make Axiris better
+labels: [ "enhancement" ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas are always welcome! Keep in mind that Axiris is meant to be calm and light, so not every feature fits, but I read every request.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe the feature and, above all, the problem it solves for you.
+    validations:
+      required: true
+  - type: textarea
+    id: more
+    attributes:
+      label: Anything else?
+      description: Examples from other apps, sketches, screenshots...
