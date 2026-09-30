@@ -174,7 +174,6 @@
         <item quantity="many">%1$d widżetów</item>
         <item quantity="other">%1$d widżetu</item>
     </plurals>
-    <string name="add_widget_button_long">Dodaj widżet</string>
     <string name="open_mode_title">Otwieraj aplikacje przez</string>
     <string name="open_mode_summary">Czynność potrzebna do otwarcia aplikacji</string>
     <string name="open_single_tap">Dotknięcie</string>
@@ -205,6 +204,10 @@
     <string name="dial_cyclic_summary">Obracaj pierścień bez końca; gdy wyłączone, zatrzymuje się na początku i na końcu</string>
     <string name="home_widgets_title">Otwieraj na widżetach</string>
     <string name="home_widgets_summary">Pokazuje stronę widżetów jako ekran główny zamiast ulubionych</string>
+    <string name="widgets_section_title">Widżety na pierścieniu</string>
+    <string name="widgets_section_summary">Pokazuj strony widżetów jako sekcję pierścienia</string>
+    <string name="dial_letters_title">Litery na pierścieniu</string>
+    <string name="dial_letters_summary">Po wyłączeniu wszystkie aplikacje są razem w jednej sekcji</string>
     <string name="full_panel_title">Panel pełnej wysokości</string>
     <string name="full_panel_summary">Pozwól panelowi aplikacji sięgać aż do zegara, pokazując o wiele więcej aplikacji naraz</string>
     <string name="unified_list_title">Ciągła lista aplikacji</string>
@@ -524,6 +527,12 @@
     <string name="dial_sensitivity_summary">Jak mocno jeden gest obraca tarczę</string>
     <string name="dial_sensitivity_slow">Wolno</string>
     <string name="dial_sensitivity_fast">Szybko</string>
+    <string name="dial_magnet_title">Magnetyczne pokrętło</string>
+    <string name="dial_magnet_summary">Każda litera przytrzymuje koło, a potem przeskakuje do następnej</string>
+    <string name="dial_magnet_strength_title">Siła magnesu</string>
+    <string name="dial_magnet_strength_summary">Jak mocno każda litera trzyma, zanim puści</string>
+    <string name="dial_magnet_soft">Delikatna</string>
+    <string name="dial_magnet_firm">Mocna</string>
     <string name="haptics_intensity_title">Siła wibracji</string>
     <string name="haptics_intensity_summary">Jak mocno tarcza stuka pod palcem</string>
     <string name="haptics_intensity_light">Lekka</string>
@@ -639,7 +648,6 @@
     <string name="about_contact_title">Napisz do mnie</string>
     <string name="translate_title">Pomóż w tłumaczeniach</string>
     <string name="translate_summary">Zgłoś tłumaczenie, które brzmi źle, albo zaproponuj nowy język</string>
-    <string name="translate_email_body">Cześć! Chcę pomóc w tłumaczeniach Axiris.\nJęzyk: </string>
     <string name="coming_soon">Wkrótce</string>
     <string name="dev_description">Jestem uprzejmym facetem i lubię piękne rzeczy: animacje, ikony, samochody sportowe i druk 3D. Pracuję jako projektant i inżynier informatyk.</string>
     <string name="dev_play_store_desc">Więcej aplikacji</string>

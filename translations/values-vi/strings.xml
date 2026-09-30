@@ -138,7 +138,6 @@
     <plurals name="widget_count">
         <item quantity="other">%1$d widget</item>
     </plurals>
-    <string name="add_widget_button_long">Thêm widget</string>
     <string name="open_mode_title">Mở ứng dụng bằng</string>
     <string name="open_mode_summary">Thao tác cần thiết để mở một ứng dụng</string>
     <string name="open_single_tap">Chạm</string>
@@ -169,6 +168,10 @@
     <string name="dial_cyclic_summary">Xoay vòng vô tận; nếu tắt, nó dừng ở đầu và cuối</string>
     <string name="home_widgets_title">Mở ở trang widget</string>
     <string name="home_widgets_summary">Hiển thị trang widget làm màn hình chính thay vì mục yêu thích</string>
+    <string name="widgets_section_title">Tiện ích trên vòng xoay</string>
+    <string name="widgets_section_summary">Hiện các trang tiện ích như một mục của vòng xoay</string>
+    <string name="dial_letters_title">Chữ cái trên vòng xoay</string>
+    <string name="dial_letters_summary">Khi tắt, mọi ứng dụng nằm chung trong một mục</string>
     <string name="full_panel_title">Bảng ứng dụng cao hết cỡ</string>
     <string name="full_panel_summary">Cho bảng ứng dụng mở rộng lên đến đồng hồ, hiển thị nhiều ứng dụng hơn cùng lúc</string>
     <string name="unified_list_title">Danh sách ứng dụng liền mạch</string>
@@ -482,6 +485,12 @@
     <string name="dial_sensitivity_summary">Một lần vuốt xoay vòng quay bao nhiêu</string>
     <string name="dial_sensitivity_slow">Chậm</string>
     <string name="dial_sensitivity_fast">Nhanh</string>
+    <string name="dial_magnet_title">Vòng xoay từ tính</string>
+    <string name="dial_magnet_summary">Mỗi chữ cái giữ vòng xoay lại, rồi bật sang chữ tiếp theo</string>
+    <string name="dial_magnet_strength_title">Lực nam châm</string>
+    <string name="dial_magnet_strength_summary">Mỗi chữ cái giữ chặt đến mức nào trước khi nhả ra</string>
+    <string name="dial_magnet_soft">Nhẹ</string>
+    <string name="dial_magnet_firm">Chắc</string>
     <string name="haptics_intensity_title">Cường độ rung</string>
     <string name="haptics_intensity_summary">Vòng quay gõ mạnh đến đâu dưới ngón tay</string>
     <string name="haptics_intensity_light">Nhẹ</string>
@@ -597,7 +606,6 @@
     <string name="about_contact_title">Liên hệ với tôi</string>
     <string name="translate_title">Giúp dịch thuật</string>
     <string name="translate_summary">Báo một bản dịch nghe chưa ổn hoặc đề xuất ngôn ngữ mới</string>
-    <string name="translate_email_body">Chào bạn! Tôi muốn giúp dịch Axiris.\nNgôn ngữ: </string>
     <string name="coming_soon">Sắp ra mắt</string>
     <string name="dev_description">Tôi là một người lịch sự và yêu những thứ đẹp đẽ: hoạt ảnh, biểu tượng, xe thể thao và in 3D. Tôi làm nhà thiết kế kiêm kỹ sư máy tính.</string>
     <string name="dev_play_store_desc">Ứng dụng khác</string>

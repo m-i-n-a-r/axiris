@@ -142,7 +142,6 @@
         <item quantity="many">%1$d widget</item>
         <item quantity="other">%1$d widget</item>
     </plurals>
-    <string name="add_widget_button_long">Aggiungi un widget</string>
     <string name="open_mode_title">Apri le app con</string>
     <string name="open_mode_summary">Azione necessaria per aprire un\'app</string>
     <string name="open_single_tap">Tap</string>
@@ -173,6 +172,10 @@
     <string name="dial_cyclic_summary">Fai girare l\'anello all\'infinito; se disattivata, si ferma a inizio e fine</string>
     <string name="home_widgets_title">Apri sui widget</string>
     <string name="home_widgets_summary">Mostra la pagina dei widget come schermata principale al posto dei preferiti</string>
+    <string name="widgets_section_title">Widget nell\'anello</string>
+    <string name="widgets_section_summary">Mostra le pagine dei widget come sezione dell\'anello</string>
+    <string name="dial_letters_title">Lettere nell\'anello</string>
+    <string name="dial_letters_summary">Se disattivato, tutte le app stanno insieme in un\'unica sezione</string>
     <string name="full_panel_title">Pannello a tutta altezza</string>
     <string name="full_panel_summary">Lascia crescere il pannello delle app fino all\'orologio, mostrandone molte di più insieme</string>
     <string name="unified_list_title">Lista app continua</string>
@@ -490,6 +493,12 @@
     <string name="dial_sensitivity_summary">Quanto gira la ruota con uno swipe</string>
     <string name="dial_sensitivity_slow">Lento</string>
     <string name="dial_sensitivity_fast">Veloce</string>
+    <string name="dial_magnet_title">Dial magnetico</string>
+    <string name="dial_magnet_summary">Ogni lettera trattiene la ruota, poi scatta alla successiva</string>
+    <string name="dial_magnet_strength_title">Forza del magnete</string>
+    <string name="dial_magnet_strength_summary">Quanto trattiene ogni lettera prima di lasciare</string>
+    <string name="dial_magnet_soft">Morbida</string>
+    <string name="dial_magnet_firm">Decisa</string>
     <string name="haptics_intensity_title">Intensità vibrazione</string>
     <string name="haptics_intensity_summary">Quanto forte batte il dial sotto il dito</string>
     <string name="haptics_intensity_light">Leggera</string>
@@ -605,7 +614,6 @@
     <string name="about_contact_title">Contattami</string>
     <string name="translate_title">Aiuta con le traduzioni</string>
     <string name="translate_summary">Segnala una traduzione che suona male o proponi una nuova lingua</string>
-    <string name="translate_email_body">Ciao! Vorrei dare una mano con le traduzioni di Axiris.\nLingua: </string>
     <string name="coming_soon">In arrivo</string>
     <string name="dev_description">Sono un tipo educato e mi piacciono le cose belle: animazioni, icone, auto sportive e stampa 3D. Lavoro come designer e ingegnere informatico.</string>
     <string name="dev_play_store_desc">Altre app</string>

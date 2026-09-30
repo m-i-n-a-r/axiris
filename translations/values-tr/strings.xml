@@ -169,7 +169,6 @@
         <item quantity="one">%1$d widget</item>
         <item quantity="other">%1$d widget</item>
     </plurals>
-    <string name="add_widget_button_long">Widget ekle</string>
     <string name="open_mode_title">Uygulamaları şununla aç</string>
     <string name="open_mode_summary">Bir uygulamayı açmak için gereken eylem</string>
     <string name="open_single_tap">Dokunma</string>
@@ -200,6 +199,10 @@
     <string name="dial_cyclic_summary">Halkayı sonsuza kadar döndürün; kapalıysa başta ve sonda durur</string>
     <string name="home_widgets_title">Widget\'larda aç</string>
     <string name="home_widgets_summary">Ana ekran olarak favoriler yerine widget sayfasını gösterir</string>
+    <string name="widgets_section_title">Halkada widget\'lar</string>
+    <string name="widgets_section_summary">Widget sayfalarını halkanın bir bölümü olarak göster</string>
+    <string name="dial_letters_title">Halkada harfler</string>
+    <string name="dial_letters_summary">Kapalıyken tüm uygulamaların tek bir bölümde toplanır</string>
     <string name="full_panel_title">Tam yükseklikte panel</string>
     <string name="full_panel_summary">Uygulama panelinin saate kadar büyümesine izin verir, böylece aynı anda çok daha fazla uygulama görünür</string>
     <string name="unified_list_title">Kesintisiz uygulama listesi</string>
@@ -515,6 +518,12 @@
     <string name="dial_sensitivity_summary">Bir kaydırmanın tekerleği ne kadar döndürdüğü</string>
     <string name="dial_sensitivity_slow">Yavaş</string>
     <string name="dial_sensitivity_fast">Hızlı</string>
+    <string name="dial_magnet_title">Manyetik kadran</string>
+    <string name="dial_magnet_summary">Her harf çarkı tutar, sonra çark bir sonrakine tık diye geçer</string>
+    <string name="dial_magnet_strength_title">Mıknatıs gücü</string>
+    <string name="dial_magnet_strength_summary">Her harfin bırakmadan önce ne kadar sıkı tuttuğu</string>
+    <string name="dial_magnet_soft">Yumuşak</string>
+    <string name="dial_magnet_firm">Sıkı</string>
     <string name="haptics_intensity_title">Titreşim gücü</string>
     <string name="haptics_intensity_summary">Kadranın parmağınızın altında ne kadar sert tıkladığı</string>
     <string name="haptics_intensity_light">Hafif</string>
@@ -630,7 +639,6 @@
     <string name="about_contact_title">Bana ulaşın</string>
     <string name="translate_title">Çevirilere yardım edin</string>
     <string name="translate_summary">Kulağa tuhaf gelen bir çeviriyi bildirin veya yeni bir dil önerin</string>
-    <string name="translate_email_body">Merhaba! Axiris çevirilerine yardım etmek istiyorum.\nDil: </string>
     <string name="coming_soon">Çok yakında</string>
     <string name="dev_description">Kibar bir adamım ve güzel şeyleri severim: animasyonlar, simgeler, spor arabalar ve 3D baskı. Tasarımcı ve bilgisayar mühendisi olarak çalışıyorum.</string>
     <string name="dev_play_store_desc">Daha fazla uygulama</string>

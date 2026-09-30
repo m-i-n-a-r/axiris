@@ -174,7 +174,6 @@
         <item quantity="many">%1$d виджетов</item>
         <item quantity="other">%1$d виджета</item>
     </plurals>
-    <string name="add_widget_button_long">Добавить виджет</string>
     <string name="open_mode_title">Открывать приложения по</string>
     <string name="open_mode_summary">Действие, необходимое для открытия приложения</string>
     <string name="open_single_tap">Нажатие</string>
@@ -205,6 +204,10 @@
     <string name="dial_cyclic_summary">Крутите кольцо бесконечно; если выключено, оно останавливается в начале и в конце</string>
     <string name="home_widgets_title">Открывать на виджетах</string>
     <string name="home_widgets_summary">Показывает страницу виджетов как главный экран вместо избранного</string>
+    <string name="widgets_section_title">Виджеты на кольце</string>
+    <string name="widgets_section_summary">Показывать страницы виджетов как раздел кольца</string>
+    <string name="dial_letters_title">Буквы на кольце</string>
+    <string name="dial_letters_summary">Если выключено, все приложения собраны в одном разделе</string>
     <string name="full_panel_title">Панель во всю высоту</string>
     <string name="full_panel_summary">Панель приложений растягивается до часов и показывает намного больше приложений сразу</string>
     <string name="unified_list_title">Сплошной список приложений</string>
@@ -524,6 +527,12 @@
     <string name="dial_sensitivity_summary">Насколько один свайп проворачивает диск</string>
     <string name="dial_sensitivity_slow">Медленно</string>
     <string name="dial_sensitivity_fast">Быстро</string>
+    <string name="dial_magnet_title">Магнитный диск</string>
+    <string name="dial_magnet_summary">Каждая буква удерживает колесо, а затем оно щёлкает к следующей</string>
+    <string name="dial_magnet_strength_title">Сила магнита</string>
+    <string name="dial_magnet_strength_summary">Насколько крепко каждая буква держит, прежде чем отпустить</string>
+    <string name="dial_magnet_soft">Мягко</string>
+    <string name="dial_magnet_firm">Сильно</string>
     <string name="haptics_intensity_title">Сила вибрации</string>
     <string name="haptics_intensity_summary">Насколько сильно диск щёлкает под пальцем</string>
     <string name="haptics_intensity_light">Слабая</string>
@@ -639,7 +648,6 @@
     <string name="about_contact_title">Написать мне</string>
     <string name="translate_title">Помочь с переводами</string>
     <string name="translate_summary">Сообщите о неудачном переводе или предложите новый язык</string>
-    <string name="translate_email_body">Привет! Я хочу помочь с переводами Axiris.\nЯзык: </string>
     <string name="coming_soon">Скоро</string>
     <string name="dev_description">Я вежливый парень и люблю красивые вещи: анимации, иконки, спорткары и 3D-печать. Работаю дизайнером и инженером-программистом.</string>
     <string name="dev_play_store_desc">Другие приложения</string>

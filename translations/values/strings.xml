@@ -170,7 +170,6 @@
         <item quantity="one">%1$d widget</item>
         <item quantity="other">%1$d widgets</item>
     </plurals>
-    <string name="add_widget_button_long">Add a widget</string>
     <string name="open_mode_title">Open apps with</string>
     <string name="open_mode_summary">Action requested to open an app</string>
     <string name="open_single_tap">Tap</string>
@@ -201,6 +200,10 @@
     <string name="dial_cyclic_summary">Spin the dial endlessly; when off, it stops at the first and last element</string>
     <string name="home_widgets_title">Open on widgets</string>
     <string name="home_widgets_summary">Show the widgets page as your main screen instead of favorites</string>
+    <string name="widgets_section_title">Widgets on the dial</string>
+    <string name="widgets_section_summary">Show the widget pages as a section of the dial</string>
+    <string name="dial_letters_title">Letters on the dial</string>
+    <string name="dial_letters_summary">When off, all your apps are together in one section</string>
     <string name="full_panel_title">Full height panel</string>
     <string name="full_panel_summary">Let the app panel grow up to the clock, showing many more apps at once</string>
     <string name="unified_list_title">Continuous app list</string>
@@ -516,6 +519,12 @@
     <string name="dial_sensitivity_summary">How far one swipe turns the wheel</string>
     <string name="dial_sensitivity_slow">Slow</string>
     <string name="dial_sensitivity_fast">Fast</string>
+    <string name="dial_magnet_title">Magnetic dial</string>
+    <string name="dial_magnet_summary">Each letter holds the wheel, then it clicks over to the next</string>
+    <string name="dial_magnet_strength_title">Magnet strength</string>
+    <string name="dial_magnet_strength_summary">How firmly each letter holds before letting go</string>
+    <string name="dial_magnet_soft">Soft</string>
+    <string name="dial_magnet_firm">Firm</string>
     <string name="haptics_intensity_title">Vibration strength</string>
     <string name="haptics_intensity_summary">How hard the dial ticks under your finger</string>
     <string name="haptics_intensity_light">Light</string>
@@ -631,7 +640,6 @@
     <string name="about_contact_title">Contact me</string>
     <string name="translate_title">Help with translations</string>
     <string name="translate_summary">Report a translation that sounds off or volunteer for a new language</string>
-    <string name="translate_email_body">Hi! I\'d like to help with the Axiris translations.\nLanguage: </string>
     <string name="coming_soon">Coming soon</string>
     <string name="dev_description">I\'m a polite guy and I like beautiful things, like animations, icons, sport cars and 3D printing. I work as a designer and computer engineer.</string>
     <string name="dev_play_store_desc">More apps</string>

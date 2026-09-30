@@ -141,7 +141,6 @@
         <item quantity="one">%1$d Widget</item>
         <item quantity="other">%1$d Widgets</item>
     </plurals>
-    <string name="add_widget_button_long">Widget hinzufügen</string>
     <string name="open_mode_title">Apps öffnen mit</string>
     <string name="open_mode_summary">Aktion, die zum Öffnen einer App nötig ist</string>
     <string name="open_single_tap">Tippen</string>
@@ -172,6 +171,10 @@
     <string name="dial_cyclic_summary">Drehe den Ring endlos; wenn aus, stoppt er am Anfang und am Ende</string>
     <string name="home_widgets_title">Mit Widgets öffnen</string>
     <string name="home_widgets_summary">Zeigt die Widget-Seite statt der Favoriten als Hauptbildschirm</string>
+    <string name="widgets_section_title">Widgets im Ring</string>
+    <string name="widgets_section_summary">Zeigt die Widget-Seiten als Abschnitt des Rings</string>
+    <string name="dial_letters_title">Buchstaben im Ring</string>
+    <string name="dial_letters_summary">Wenn aus, sind alle Apps zusammen in einem Abschnitt</string>
     <string name="full_panel_title">Panel in voller Höhe</string>
     <string name="full_panel_summary">Lässt das App-Panel bis zur Uhr wachsen und zeigt so viel mehr Apps auf einmal</string>
     <string name="unified_list_title">Durchgehende App-Liste</string>
@@ -487,6 +490,12 @@
     <string name="dial_sensitivity_summary">Wie weit ein Wisch das Rad dreht</string>
     <string name="dial_sensitivity_slow">Langsam</string>
     <string name="dial_sensitivity_fast">Schnell</string>
+    <string name="dial_magnet_title">Magnetisches Rad</string>
+    <string name="dial_magnet_summary">Jeder Buchstabe hält das Rad fest, dann rastet es beim nächsten ein</string>
+    <string name="dial_magnet_strength_title">Magnetstärke</string>
+    <string name="dial_magnet_strength_summary">Wie fest jeder Buchstabe hält, bevor er loslässt</string>
+    <string name="dial_magnet_soft">Weich</string>
+    <string name="dial_magnet_firm">Fest</string>
     <string name="haptics_intensity_title">Vibrationsstärke</string>
     <string name="haptics_intensity_summary">Wie kräftig das Rad unter dem Finger tickt</string>
     <string name="haptics_intensity_light">Leicht</string>
@@ -602,7 +611,6 @@
     <string name="about_contact_title">Kontaktiere mich</string>
     <string name="translate_title">Bei den Übersetzungen helfen</string>
     <string name="translate_summary">Melde eine holprige Übersetzung oder biete eine neue Sprache an</string>
-    <string name="translate_email_body">Hallo! Ich möchte bei den Axiris-Übersetzungen helfen.\nSprache: </string>
     <string name="coming_soon">Bald verfügbar</string>
     <string name="dev_description">Ich bin ein höflicher Typ und mag schöne Dinge: Animationen, Icons, Sportwagen und 3D-Druck. Ich arbeite als Designer und Informatikingenieur.</string>
     <string name="dev_play_store_desc">Weitere Apps</string>

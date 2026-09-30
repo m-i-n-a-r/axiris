@@ -142,7 +142,6 @@
         <item quantity="many">%1$d widgets</item>
         <item quantity="other">%1$d widgets</item>
     </plurals>
-    <string name="add_widget_button_long">Ajouter un widget</string>
     <string name="open_mode_title">Ouvrir les applis avec</string>
     <string name="open_mode_summary">Action nécessaire pour ouvrir une appli</string>
     <string name="open_single_tap">Appui</string>
@@ -173,6 +172,10 @@
     <string name="dial_cyclic_summary">Faites tourner l\'anneau sans fin ; sinon, il s\'arrête au début et à la fin</string>
     <string name="home_widgets_title">Ouvrir sur les widgets</string>
     <string name="home_widgets_summary">Affiche la page des widgets comme écran principal à la place des favoris</string>
+    <string name="widgets_section_title">Widgets sur l\'anneau</string>
+    <string name="widgets_section_summary">Affiche les pages de widgets comme une section de l\'anneau</string>
+    <string name="dial_letters_title">Lettres sur l\'anneau</string>
+    <string name="dial_letters_summary">Désactivé, toutes vos applis sont réunies dans une seule section</string>
     <string name="full_panel_title">Panneau pleine hauteur</string>
     <string name="full_panel_summary">Laisse le panneau d\'applis monter jusqu\'à l\'horloge, pour afficher bien plus d\'applis à la fois</string>
     <string name="unified_list_title">Liste d\'applis continue</string>
@@ -490,6 +493,12 @@
     <string name="dial_sensitivity_summary">De combien un balayage fait tourner la molette</string>
     <string name="dial_sensitivity_slow">Lent</string>
     <string name="dial_sensitivity_fast">Rapide</string>
+    <string name="dial_magnet_title">Cadran magnétique</string>
+    <string name="dial_magnet_summary">Chaque lettre retient la roue, puis elle passe d\'un cran à la suivante</string>
+    <string name="dial_magnet_strength_title">Force de l\'aimant</string>
+    <string name="dial_magnet_strength_summary">La fermeté avec laquelle chaque lettre retient avant de lâcher</string>
+    <string name="dial_magnet_soft">Douce</string>
+    <string name="dial_magnet_firm">Ferme</string>
     <string name="haptics_intensity_title">Intensité des vibrations</string>
     <string name="haptics_intensity_summary">Avec quelle force la molette bat sous le doigt</string>
     <string name="haptics_intensity_light">Légère</string>
@@ -605,7 +614,6 @@
     <string name="about_contact_title">Me contacter</string>
     <string name="translate_title">Aider aux traductions</string>
     <string name="translate_summary">Signalez une traduction qui sonne mal ou proposez une nouvelle langue</string>
-    <string name="translate_email_body">Bonjour ! J\'aimerais aider aux traductions d\'Axiris.\nLangue : </string>
     <string name="coming_soon">Bientôt disponible</string>
     <string name="dev_description">Je suis quelqu\'un de poli et j\'aime les belles choses : les animations, les icônes, les voitures de sport et l\'impression 3D. Je travaille comme designer et ingénieur en informatique.</string>
     <string name="dev_play_store_desc">Plus d\'applis</string>

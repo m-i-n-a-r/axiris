@@ -139,7 +139,6 @@
     <plurals name="widget_count">
         <item quantity="other">%1$d widget</item>
     </plurals>
-    <string name="add_widget_button_long">Tambah widget</string>
     <string name="open_mode_title">Buka aplikasi dengan</string>
     <string name="open_mode_summary">Tindakan yang diperlukan untuk membuka aplikasi</string>
     <string name="open_single_tap">Ketuk</string>
@@ -170,6 +169,10 @@
     <string name="dial_cyclic_summary">Putar roda tanpa henti; jika mati, berhenti di awal dan akhir</string>
     <string name="home_widgets_title">Buka di widget</string>
     <string name="home_widgets_summary">Menampilkan halaman widget sebagai layar utama, bukan favorit</string>
+    <string name="widgets_section_title">Widget di roda</string>
+    <string name="widgets_section_summary">Tampilkan halaman widget sebagai bagian dari roda</string>
+    <string name="dial_letters_title">Huruf di roda</string>
+    <string name="dial_letters_summary">Jika mati, semua aplikasi ada bersama dalam satu bagian</string>
     <string name="full_panel_title">Panel tinggi penuh</string>
     <string name="full_panel_summary">Biarkan panel aplikasi tumbuh sampai ke jam, menampilkan lebih banyak aplikasi sekaligus</string>
     <string name="unified_list_title">Daftar aplikasi menyatu</string>
@@ -483,6 +486,12 @@
     <string name="dial_sensitivity_summary">Seberapa jauh satu gesekan memutar roda</string>
     <string name="dial_sensitivity_slow">Lambat</string>
     <string name="dial_sensitivity_fast">Cepat</string>
+    <string name="dial_magnet_title">Dial magnetis</string>
+    <string name="dial_magnet_summary">Setiap huruf menahan roda, lalu roda berpindah ke huruf berikutnya</string>
+    <string name="dial_magnet_strength_title">Kekuatan magnet</string>
+    <string name="dial_magnet_strength_summary">Seberapa kuat setiap huruf menahan sebelum melepas</string>
+    <string name="dial_magnet_soft">Lembut</string>
+    <string name="dial_magnet_firm">Kuat</string>
     <string name="haptics_intensity_title">Kekuatan getaran</string>
     <string name="haptics_intensity_summary">Seberapa kuat dial berdetak di bawah jari</string>
     <string name="haptics_intensity_light">Ringan</string>
@@ -598,7 +607,6 @@
     <string name="about_contact_title">Hubungi saya</string>
     <string name="translate_title">Bantu terjemahan</string>
     <string name="translate_summary">Laporkan terjemahan yang terdengar janggal atau usulkan bahasa baru</string>
-    <string name="translate_email_body">Halo! Saya ingin membantu terjemahan Axiris.\nBahasa: </string>
     <string name="coming_soon">Segera hadir</string>
     <string name="dev_description">Saya orang yang sopan dan suka hal-hal indah: animasi, ikon, mobil sport, dan pencetakan 3D. Saya bekerja sebagai desainer dan insinyur komputer.</string>
     <string name="dev_play_store_desc">Aplikasi lainnya</string>

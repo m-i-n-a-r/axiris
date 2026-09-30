@@ -141,7 +141,6 @@
         <item quantity="one">%1$d widget</item>
         <item quantity="other">%1$d widgets</item>
     </plurals>
-    <string name="add_widget_button_long">Widget toevoegen</string>
     <string name="open_mode_title">Apps openen met</string>
     <string name="open_mode_summary">Handeling die nodig is om een app te openen</string>
     <string name="open_single_tap">Tik</string>
@@ -172,6 +171,10 @@
     <string name="dial_cyclic_summary">Draai de ring eindeloos; indien uit, stopt hij aan het begin en het einde</string>
     <string name="home_widgets_title">Openen op widgets</string>
     <string name="home_widgets_summary">Toont de widgetpagina als hoofdscherm in plaats van favorieten</string>
+    <string name="widgets_section_title">Widgets op de ring</string>
+    <string name="widgets_section_summary">Toon de widgetpagina\'s als sectie van de ring</string>
+    <string name="dial_letters_title">Letters op de ring</string>
+    <string name="dial_letters_summary">Uit: al je apps staan samen in één sectie</string>
     <string name="full_panel_title">Paneel op volle hoogte</string>
     <string name="full_panel_summary">Laat het app-paneel doorlopen tot aan de klok, zodat er veel meer apps tegelijk passen</string>
     <string name="unified_list_title">Doorlopende app-lijst</string>
@@ -487,6 +490,12 @@
     <string name="dial_sensitivity_summary">Hoe ver de schijf draait met één veegbeweging</string>
     <string name="dial_sensitivity_slow">Langzaam</string>
     <string name="dial_sensitivity_fast">Snel</string>
+    <string name="dial_magnet_title">Magnetische draaischijf</string>
+    <string name="dial_magnet_summary">Elke letter houdt het wiel vast en klikt dan door naar de volgende</string>
+    <string name="dial_magnet_strength_title">Magneetsterkte</string>
+    <string name="dial_magnet_strength_summary">Hoe stevig elke letter vasthoudt voordat hij loslaat</string>
+    <string name="dial_magnet_soft">Zacht</string>
+    <string name="dial_magnet_firm">Stevig</string>
     <string name="haptics_intensity_title">Trilsterkte</string>
     <string name="haptics_intensity_summary">Hoe hard de draaischijf onder je vinger tikt</string>
     <string name="haptics_intensity_light">Licht</string>
@@ -602,7 +611,6 @@
     <string name="about_contact_title">Neem contact op</string>
     <string name="translate_title">Help met de vertalingen</string>
     <string name="translate_summary">Meld een vertaling die vreemd klinkt of stel een nieuwe taal voor</string>
-    <string name="translate_email_body">Hoi! Ik wil graag helpen met de Axiris-vertalingen.\nTaal: </string>
     <string name="coming_soon">Binnenkort beschikbaar</string>
     <string name="dev_description">Ik ben een beleefde kerel en ik houd van mooie dingen: animaties, iconen, sportauto\'s en 3D-printen. Ik werk als designer en software-engineer.</string>
     <string name="dev_play_store_desc">Meer apps</string>

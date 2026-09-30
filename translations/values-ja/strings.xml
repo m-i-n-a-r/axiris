@@ -139,7 +139,6 @@
     <plurals name="widget_count">
         <item quantity="other">%1$d 個のウィジェット</item>
     </plurals>
-    <string name="add_widget_button_long">ウィジェットを追加</string>
     <string name="open_mode_title">アプリの開き方</string>
     <string name="open_mode_summary">アプリを開くのに必要な操作</string>
     <string name="open_single_tap">タップ</string>
@@ -170,6 +169,10 @@
     <string name="dial_cyclic_summary">リングを無限に回せます。オフの場合は最初と最後で止まります</string>
     <string name="home_widgets_title">ウィジェットで開く</string>
     <string name="home_widgets_summary">お気に入りの代わりにウィジェットページをメイン画面として表示します</string>
+    <string name="widgets_section_title">リングのウィジェット</string>
+    <string name="widgets_section_summary">ウィジェットのページをリングのセクションとして表示</string>
+    <string name="dial_letters_title">リングの文字</string>
+    <string name="dial_letters_summary">オフにすると、すべてのアプリが1つのセクションにまとまります</string>
     <string name="full_panel_title">フルハイトパネル</string>
     <string name="full_panel_summary">アプリパネルを時計まで広げ、一度に表示できるアプリを大幅に増やします</string>
     <string name="unified_list_title">連続したアプリリスト</string>
@@ -483,6 +486,12 @@
     <string name="dial_sensitivity_summary">スワイプでホイールが回る量</string>
     <string name="dial_sensitivity_slow">ゆっくり</string>
     <string name="dial_sensitivity_fast">速い</string>
+    <string name="dial_magnet_title">マグネットダイヤル</string>
+    <string name="dial_magnet_summary">各文字でホイールが止まり、カチッと次の文字へ進みます</string>
+    <string name="dial_magnet_strength_title">マグネットの強さ</string>
+    <string name="dial_magnet_strength_summary">各文字が離れるまでにどれだけ強く保持するか</string>
+    <string name="dial_magnet_soft">弱い</string>
+    <string name="dial_magnet_firm">強い</string>
     <string name="haptics_intensity_title">振動の強さ</string>
     <string name="haptics_intensity_summary">指の下でダイヤルが刻む強さ</string>
     <string name="haptics_intensity_light">弱い</string>
@@ -598,7 +607,6 @@
     <string name="about_contact_title">連絡する</string>
     <string name="translate_title">翻訳を手伝う</string>
     <string name="translate_summary">不自然な翻訳の報告や、新しい言語の提案はこちら</string>
-    <string name="translate_email_body">こんにちは！Axiris の翻訳を手伝いたいです。\n言語: </string>
     <string name="coming_soon">近日公開</string>
     <string name="dev_description">礼儀正しい性格で、美しいものが好きです。アニメーション、アイコン、スポーツカー、3D プリントなど。デザイナー兼コンピューターエンジニアとして働いています。</string>
     <string name="dev_play_store_desc">その他のアプリ</string>
