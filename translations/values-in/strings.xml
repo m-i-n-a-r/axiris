@@ -118,6 +118,8 @@
     <string name="folders_title">Folder</string>
     <string name="folders_open">Folder</string>
     <string name="folders_summary">Kelompokkan aplikasi di bawah simbol pada roda</string>
+    <string name="folder_apps_only_title">Aplikasi folder hanya di folder</string>
+    <string name="folder_apps_only_summary">Aplikasi dalam folder keluar dari daftar huruf, pencarian tetap menemukannya</string>
     <plurals name="folder_app_count">
         <item quantity="other">%1$d aplikasi</item>
     </plurals>
@@ -488,9 +490,7 @@
     <string name="dial_sensitivity_fast">Cepat</string>
     <string name="dial_magnet_title">Dial magnetis</string>
     <string name="dial_magnet_summary">Setiap huruf menahan roda, lalu roda berpindah ke huruf berikutnya</string>
-    <string name="dial_magnet_strength_title">Kekuatan magnet</string>
-    <string name="dial_magnet_strength_summary">Seberapa kuat setiap huruf menahan sebelum melepas</string>
-    <string name="dial_magnet_soft">Lembut</string>
+    <string name="dial_magnet_off">Mati</string>
     <string name="dial_magnet_firm">Kuat</string>
     <string name="haptics_intensity_title">Kekuatan getaran</string>
     <string name="haptics_intensity_summary">Seberapa kuat dial berdetak di bawah jari</string>
@@ -662,6 +662,7 @@
     <string name="calendar_perm_denied">Akses kalender nonaktif. Aktifkan di Info aplikasi untuk melihat acara.</string>
     <string name="glance_app_opens_week">Aplikasi dibuka, 7 hari</string>
     <string name="glance_app_opens_month">Aplikasi dibuka, 30 hari</string>
+    <string name="glance_app_opens_year">Aplikasi dibuka, 365 hari</string>
     <string name="glance_item_rss">Berita</string>
     <string name="rss_title">Feed</string>
     <string name="rss_summary">Feed RSS dan Atom yang dibaca Fovea</string>

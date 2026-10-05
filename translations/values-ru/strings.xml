@@ -147,6 +147,8 @@
     <string name="folders_title">Папки</string>
     <string name="folders_open">Папки</string>
     <string name="folders_summary">Группируйте приложения под символом на кольце</string>
+    <string name="folder_apps_only_title">Приложения папок только в папках</string>
+    <string name="folder_apps_only_summary">Приложения из папки исчезают из букв, поиск по-прежнему их находит</string>
     <plurals name="folder_app_count">
         <item quantity="one">%1$d приложение</item>
         <item quantity="few">%1$d приложения</item>
@@ -529,9 +531,7 @@
     <string name="dial_sensitivity_fast">Быстро</string>
     <string name="dial_magnet_title">Магнитный диск</string>
     <string name="dial_magnet_summary">Каждая буква удерживает колесо, а затем оно щёлкает к следующей</string>
-    <string name="dial_magnet_strength_title">Сила магнита</string>
-    <string name="dial_magnet_strength_summary">Насколько крепко каждая буква держит, прежде чем отпустить</string>
-    <string name="dial_magnet_soft">Мягко</string>
+    <string name="dial_magnet_off">Выкл.</string>
     <string name="dial_magnet_firm">Сильно</string>
     <string name="haptics_intensity_title">Сила вибрации</string>
     <string name="haptics_intensity_summary">Насколько сильно диск щёлкает под пальцем</string>
@@ -703,6 +703,7 @@
     <string name="calendar_perm_denied">Доступ к календарю выключен. Включите его в сведениях о приложении, чтобы видеть события.</string>
     <string name="glance_app_opens_week">Открытые приложения, 7 дней</string>
     <string name="glance_app_opens_month">Открытые приложения, 30 дней</string>
+    <string name="glance_app_opens_year">Открытые приложения, 365 дней</string>
     <string name="glance_item_rss">Новости</string>
     <string name="rss_title">Ленты</string>
     <string name="rss_summary">Ленты RSS и Atom, которые читает Fovea</string>

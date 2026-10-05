@@ -118,6 +118,8 @@
     <string name="folders_title">フォルダ</string>
     <string name="folders_open">フォルダ</string>
     <string name="folders_summary">リング上のシンボルの下にアプリをまとめます</string>
+    <string name="folder_apps_only_title">フォルダのアプリはフォルダだけに</string>
+    <string name="folder_apps_only_summary">フォルダ内のアプリは文字の一覧から外れます。検索では引き続き見つかります</string>
     <plurals name="folder_app_count">
         <item quantity="other">%1$d 個のアプリ</item>
     </plurals>
@@ -488,9 +490,7 @@
     <string name="dial_sensitivity_fast">速い</string>
     <string name="dial_magnet_title">マグネットダイヤル</string>
     <string name="dial_magnet_summary">各文字でホイールが止まり、カチッと次の文字へ進みます</string>
-    <string name="dial_magnet_strength_title">マグネットの強さ</string>
-    <string name="dial_magnet_strength_summary">各文字が離れるまでにどれだけ強く保持するか</string>
-    <string name="dial_magnet_soft">弱い</string>
+    <string name="dial_magnet_off">オフ</string>
     <string name="dial_magnet_firm">強い</string>
     <string name="haptics_intensity_title">振動の強さ</string>
     <string name="haptics_intensity_summary">指の下でダイヤルが刻む強さ</string>
@@ -662,6 +662,7 @@
     <string name="calendar_perm_denied">カレンダーへのアクセスがオフです。アプリ情報から有効にすると予定が表示されます。</string>
     <string name="glance_app_opens_week">開いたアプリ、7日間</string>
     <string name="glance_app_opens_month">開いたアプリ、30日間</string>
+    <string name="glance_app_opens_year">開いたアプリ、365日</string>
     <string name="glance_item_rss">ニュース</string>
     <string name="rss_title">フィード</string>
     <string name="rss_summary">Fovea が読む RSS と Atom のフィード</string>

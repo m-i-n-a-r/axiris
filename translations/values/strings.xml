@@ -147,6 +147,8 @@
     <string name="folders_title">Folders</string>
     <string name="folders_open">Folders</string>
     <string name="folders_summary">Group apps under a symbol on the dial</string>
+    <string name="folder_apps_only_title">Folder apps only in folders</string>
+    <string name="folder_apps_only_summary">Apps in a folder leave the letters, the search still finds them</string>
     <plurals name="folder_app_count">
         <item quantity="one">%1$d app</item>
         <item quantity="other">%1$d apps</item>
@@ -521,9 +523,7 @@
     <string name="dial_sensitivity_fast">Fast</string>
     <string name="dial_magnet_title">Magnetic dial</string>
     <string name="dial_magnet_summary">Each letter holds the wheel, then it clicks over to the next</string>
-    <string name="dial_magnet_strength_title">Magnet strength</string>
-    <string name="dial_magnet_strength_summary">How firmly each letter holds before letting go</string>
-    <string name="dial_magnet_soft">Soft</string>
+    <string name="dial_magnet_off">Off</string>
     <string name="dial_magnet_firm">Firm</string>
     <string name="haptics_intensity_title">Vibration strength</string>
     <string name="haptics_intensity_summary">How hard the dial ticks under your finger</string>
@@ -695,6 +695,7 @@
     <string name="calendar_perm_denied">Calendar access is off. Enable it in App info to see your events.</string>
     <string name="glance_app_opens_week">Apps opened, 7 days</string>
     <string name="glance_app_opens_month">Apps opened, 30 days</string>
+    <string name="glance_app_opens_year">Apps opened, 365 days</string>
     <string name="glance_item_rss">News</string>
     <string name="rss_title">Feeds</string>
     <string name="rss_summary">The RSS and Atom feeds Fovea reads</string>

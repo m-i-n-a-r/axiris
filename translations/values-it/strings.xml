@@ -117,6 +117,8 @@
     <string name="folders_title">Cartelle</string>
     <string name="folders_open">Cartelle</string>
     <string name="folders_summary">Raggruppa le app sotto un simbolo sull\'anello</string>
+    <string name="folder_apps_only_title">App delle cartelle solo nelle cartelle</string>
+    <string name="folder_apps_only_summary">Le app in una cartella escono dalle lettere, la ricerca le trova comunque</string>
     <plurals name="folder_app_count">
         <item quantity="one">%1$d app</item>
         <item quantity="many">%1$d app</item>
@@ -495,10 +497,8 @@
     <string name="dial_sensitivity_fast">Veloce</string>
     <string name="dial_magnet_title">Dial magnetico</string>
     <string name="dial_magnet_summary">Ogni lettera trattiene la ruota, poi scatta alla successiva</string>
-    <string name="dial_magnet_strength_title">Forza del magnete</string>
-    <string name="dial_magnet_strength_summary">Quanto trattiene ogni lettera prima di lasciare</string>
-    <string name="dial_magnet_soft">Morbida</string>
-    <string name="dial_magnet_firm">Decisa</string>
+    <string name="dial_magnet_off">Spento</string>
+    <string name="dial_magnet_firm">Forte</string>
     <string name="haptics_intensity_title">Intensità vibrazione</string>
     <string name="haptics_intensity_summary">Quanto forte batte il dial sotto il dito</string>
     <string name="haptics_intensity_light">Leggera</string>
@@ -669,6 +669,7 @@
     <string name="calendar_perm_denied">L\'accesso al calendario è disattivato. Attivalo in Info app per vedere gli eventi.</string>
     <string name="glance_app_opens_week">App aperte, 7 giorni</string>
     <string name="glance_app_opens_month">App aperte, 30 giorni</string>
+    <string name="glance_app_opens_year">App aperte, 365 giorni</string>
     <string name="glance_item_rss">Notizie</string>
     <string name="rss_title">Feed</string>
     <string name="rss_summary">I feed RSS e Atom che legge Fovea</string>

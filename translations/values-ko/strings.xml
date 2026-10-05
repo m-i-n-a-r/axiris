@@ -118,6 +118,8 @@
     <string name="folders_title">폴더</string>
     <string name="folders_open">폴더</string>
     <string name="folders_summary">링의 심볼 아래에 앱을 묶습니다</string>
+    <string name="folder_apps_only_title">폴더 앱은 폴더에만</string>
+    <string name="folder_apps_only_summary">폴더에 있는 앱은 글자 목록에서 빠지며, 검색으로는 계속 찾을 수 있습니다</string>
     <plurals name="folder_app_count">
         <item quantity="other">앱 %1$d개</item>
     </plurals>
@@ -488,9 +490,7 @@
     <string name="dial_sensitivity_fast">빠르게</string>
     <string name="dial_magnet_title">자석 다이얼</string>
     <string name="dial_magnet_summary">각 글자가 휠을 붙잡았다가 딸깍하고 다음 글자로 넘어갑니다</string>
-    <string name="dial_magnet_strength_title">자석 세기</string>
-    <string name="dial_magnet_strength_summary">각 글자가 놓아주기 전에 얼마나 단단히 붙잡는지</string>
-    <string name="dial_magnet_soft">부드럽게</string>
+    <string name="dial_magnet_off">끔</string>
     <string name="dial_magnet_firm">단단하게</string>
     <string name="haptics_intensity_title">진동 세기</string>
     <string name="haptics_intensity_summary">손가락 아래에서 다이얼이 울리는 세기</string>
@@ -662,6 +662,7 @@
     <string name="calendar_perm_denied">캘린더 접근이 꺼져 있습니다. 앱 정보에서 허용하면 일정이 표시됩니다.</string>
     <string name="glance_app_opens_week">실행한 앱, 7일</string>
     <string name="glance_app_opens_month">실행한 앱, 30일</string>
+    <string name="glance_app_opens_year">연 앱, 365일</string>
     <string name="glance_item_rss">뉴스</string>
     <string name="rss_title">피드</string>
     <string name="rss_summary">Fovea가 읽을 RSS 및 Atom 피드</string>

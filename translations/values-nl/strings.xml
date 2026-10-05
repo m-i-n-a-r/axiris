@@ -118,6 +118,8 @@
     <string name="folders_title">Mappen</string>
     <string name="folders_open">Mappen</string>
     <string name="folders_summary">Groepeer apps onder een symbool op de ring</string>
+    <string name="folder_apps_only_title">Map-apps alleen in mappen</string>
+    <string name="folder_apps_only_summary">Apps in een map verdwijnen uit de letters, zoeken vindt ze nog steeds</string>
     <plurals name="folder_app_count">
         <item quantity="one">%1$d app</item>
         <item quantity="other">%1$d apps</item>
@@ -492,9 +494,7 @@
     <string name="dial_sensitivity_fast">Snel</string>
     <string name="dial_magnet_title">Magnetische draaischijf</string>
     <string name="dial_magnet_summary">Elke letter houdt het wiel vast en klikt dan door naar de volgende</string>
-    <string name="dial_magnet_strength_title">Magneetsterkte</string>
-    <string name="dial_magnet_strength_summary">Hoe stevig elke letter vasthoudt voordat hij loslaat</string>
-    <string name="dial_magnet_soft">Zacht</string>
+    <string name="dial_magnet_off">Uit</string>
     <string name="dial_magnet_firm">Stevig</string>
     <string name="haptics_intensity_title">Trilsterkte</string>
     <string name="haptics_intensity_summary">Hoe hard de draaischijf onder je vinger tikt</string>
@@ -666,6 +666,7 @@
     <string name="calendar_perm_denied">Agendatoegang staat uit. Zet het aan bij App-info om je afspraken te zien.</string>
     <string name="glance_app_opens_week">Geopende apps, 7 dagen</string>
     <string name="glance_app_opens_month">Geopende apps, 30 dagen</string>
+    <string name="glance_app_opens_year">Geopende apps, 365 dagen</string>
     <string name="glance_item_rss">Nieuws</string>
     <string name="rss_title">Feeds</string>
     <string name="rss_summary">De RSS- en Atom-feeds die Fovea leest</string>

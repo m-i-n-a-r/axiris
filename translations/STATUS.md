@@ -4,16 +4,16 @@ Generated at every export: the numbers are the ones of the latest version of the
 
 | Language | Folder | Translated | Missing |
 |:--|:--|--:|--:|
-| German | `values-de` | 958/958 | 0 |
-| Spanish | `values-es` | 958/958 | 0 |
-| French | `values-fr` | 958/958 | 0 |
-| Indonesian | `values-in` | 958/958 | 0 |
-| Italian | `values-it` | 958/958 | 0 |
-| Japanese | `values-ja` | 958/958 | 0 |
-| Korean | `values-ko` | 958/958 | 0 |
-| Dutch | `values-nl` | 958/958 | 0 |
-| Polish | `values-pl` | 958/958 | 0 |
-| Portuguese | `values-pt` | 958/958 | 0 |
-| Russian | `values-ru` | 958/958 | 0 |
-| Turkish | `values-tr` | 958/958 | 0 |
-| Vietnamese | `values-vi` | 958/958 | 0 |
+| German | `values-de` | 959/959 | 0 |
+| Spanish | `values-es` | 959/959 | 0 |
+| French | `values-fr` | 959/959 | 0 |
+| Indonesian | `values-in` | 959/959 | 0 |
+| Italian | `values-it` | 959/959 | 0 |
+| Japanese | `values-ja` | 959/959 | 0 |
+| Korean | `values-ko` | 959/959 | 0 |
+| Dutch | `values-nl` | 959/959 | 0 |
+| Polish | `values-pl` | 959/959 | 0 |
+| Portuguese | `values-pt` | 959/959 | 0 |
+| Russian | `values-ru` | 959/959 | 0 |
+| Turkish | `values-tr` | 959/959 | 0 |
+| Vietnamese | `values-vi` | 959/959 | 0 |

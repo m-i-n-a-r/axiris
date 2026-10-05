@@ -117,6 +117,8 @@
     <string name="folders_title">Dossiers</string>
     <string name="folders_open">Dossiers</string>
     <string name="folders_summary">Regroupez les applis sous un symbole sur l\'anneau</string>
+    <string name="folder_apps_only_title">Apps des dossiers seulement dans les dossiers</string>
+    <string name="folder_apps_only_summary">Les apps d\'un dossier quittent les lettres, la recherche les trouve toujours</string>
     <plurals name="folder_app_count">
         <item quantity="one">%1$d appli</item>
         <item quantity="many">%1$d applis</item>
@@ -495,10 +497,8 @@
     <string name="dial_sensitivity_fast">Rapide</string>
     <string name="dial_magnet_title">Cadran magnétique</string>
     <string name="dial_magnet_summary">Chaque lettre retient la roue, puis elle passe d\'un cran à la suivante</string>
-    <string name="dial_magnet_strength_title">Force de l\'aimant</string>
-    <string name="dial_magnet_strength_summary">La fermeté avec laquelle chaque lettre retient avant de lâcher</string>
-    <string name="dial_magnet_soft">Douce</string>
-    <string name="dial_magnet_firm">Ferme</string>
+    <string name="dial_magnet_off">Désactivé</string>
+    <string name="dial_magnet_firm">Fort</string>
     <string name="haptics_intensity_title">Intensité des vibrations</string>
     <string name="haptics_intensity_summary">Avec quelle force la molette bat sous le doigt</string>
     <string name="haptics_intensity_light">Légère</string>
@@ -669,6 +669,7 @@
     <string name="calendar_perm_denied">L\'accès à l\'agenda est désactivé. Active-le dans Infos sur l\'appli pour voir les événements.</string>
     <string name="glance_app_opens_week">Applis ouvertes, 7 jours</string>
     <string name="glance_app_opens_month">Applis ouvertes, 30 jours</string>
+    <string name="glance_app_opens_year">Apps ouvertes, 365 jours</string>
     <string name="glance_item_rss">Actualités</string>
     <string name="rss_title">Flux</string>
     <string name="rss_summary">Les flux RSS et Atom que Fovea consulte</string>

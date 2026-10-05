@@ -146,6 +146,8 @@
     <string name="folders_title">Klasörler</string>
     <string name="folders_open">Klasörler</string>
     <string name="folders_summary">Uygulamaları halkada bir simge altında gruplayın</string>
+    <string name="folder_apps_only_title">Klasör uygulamaları yalnızca klasörlerde</string>
+    <string name="folder_apps_only_summary">Klasördeki uygulamalar harflerden çıkar, arama yine de bulur</string>
     <plurals name="folder_app_count">
         <item quantity="one">%1$d uygulama</item>
         <item quantity="other">%1$d uygulama</item>
@@ -520,9 +522,7 @@
     <string name="dial_sensitivity_fast">Hızlı</string>
     <string name="dial_magnet_title">Manyetik kadran</string>
     <string name="dial_magnet_summary">Her harf çarkı tutar, sonra çark bir sonrakine tık diye geçer</string>
-    <string name="dial_magnet_strength_title">Mıknatıs gücü</string>
-    <string name="dial_magnet_strength_summary">Her harfin bırakmadan önce ne kadar sıkı tuttuğu</string>
-    <string name="dial_magnet_soft">Yumuşak</string>
+    <string name="dial_magnet_off">Kapalı</string>
     <string name="dial_magnet_firm">Sıkı</string>
     <string name="haptics_intensity_title">Titreşim gücü</string>
     <string name="haptics_intensity_summary">Kadranın parmağınızın altında ne kadar sert tıkladığı</string>
@@ -694,6 +694,7 @@
     <string name="calendar_perm_denied">Takvim erişimi kapalı. Etkinlikleri görmek için Uygulama bilgisi bölümünden açın.</string>
     <string name="glance_app_opens_week">Açılan uygulamalar, 7 gün</string>
     <string name="glance_app_opens_month">Açılan uygulamalar, 30 gün</string>
+    <string name="glance_app_opens_year">Açılan uygulamalar, 365 gün</string>
     <string name="glance_item_rss">Haberler</string>
     <string name="rss_title">Akışlar</string>
     <string name="rss_summary">Fovea\'nın okuduğu RSS ve Atom akışları</string>

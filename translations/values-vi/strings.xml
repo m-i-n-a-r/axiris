@@ -117,6 +117,8 @@
     <string name="folders_title">Thư mục</string>
     <string name="folders_open">Thư mục</string>
     <string name="folders_summary">Gom các ứng dụng dưới một biểu tượng trên vòng xoay</string>
+    <string name="folder_apps_only_title">Ứng dụng trong thư mục chỉ ở thư mục</string>
+    <string name="folder_apps_only_summary">Ứng dụng trong thư mục rời khỏi danh sách chữ cái, tìm kiếm vẫn thấy chúng</string>
     <plurals name="folder_app_count">
         <item quantity="other">%1$d ứng dụng</item>
     </plurals>
@@ -487,9 +489,7 @@
     <string name="dial_sensitivity_fast">Nhanh</string>
     <string name="dial_magnet_title">Vòng xoay từ tính</string>
     <string name="dial_magnet_summary">Mỗi chữ cái giữ vòng xoay lại, rồi bật sang chữ tiếp theo</string>
-    <string name="dial_magnet_strength_title">Lực nam châm</string>
-    <string name="dial_magnet_strength_summary">Mỗi chữ cái giữ chặt đến mức nào trước khi nhả ra</string>
-    <string name="dial_magnet_soft">Nhẹ</string>
+    <string name="dial_magnet_off">Tắt</string>
     <string name="dial_magnet_firm">Chắc</string>
     <string name="haptics_intensity_title">Cường độ rung</string>
     <string name="haptics_intensity_summary">Vòng quay gõ mạnh đến đâu dưới ngón tay</string>
@@ -661,6 +661,7 @@
     <string name="calendar_perm_denied">Quyền truy cập lịch đang tắt. Bật trong Thông tin ứng dụng để xem sự kiện.</string>
     <string name="glance_app_opens_week">Ứng dụng đã mở, 7 ngày</string>
     <string name="glance_app_opens_month">Ứng dụng đã mở, 30 ngày</string>
+    <string name="glance_app_opens_year">Ứng dụng đã mở, 365 ngày</string>
     <string name="glance_item_rss">Tin tức</string>
     <string name="rss_title">Nguồn tin</string>
     <string name="rss_summary">Các nguồn RSS và Atom mà Fovea đọc</string>
