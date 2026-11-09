@@ -5,7 +5,7 @@ A launcher built around a rotary dial, made to help you pick up your phone, do w
 <p align='center'>
   <a href='https://www.reddit.com/r/axirislauncher/'><img src='https://img.shields.io/badge/reddit-r%2Faxirislauncher-FF4500?logo=reddit&logoColor=white' alt='Subreddit'/></a>
   <a href='https://github.com/m-i-n-a-r/axiris/issues'><img src='https://img.shields.io/github/issues/m-i-n-a-r/axiris' alt='Issues'/></a>
-  <a href='translations/STATUS.md'><img src='https://img.shields.io/badge/languages-14-4c9aa8' alt='Languages'/></a>
+  <a href='translations/STATUS.md'><img src='https://img.shields.io/badge/languages-17-4c9aa8' alt='Languages'/></a>
 </p>
 
 ## Introduction
@@ -37,15 +37,17 @@ The code of the app is private, but this repository is where everything else liv
 - No ads, no tracking, and the permissions that need your consent (contacts, calendar, location) are asked only when you turn on the feature that uses them
 
 ## Translations
-Axiris is currently available in 14 languages. The translations were a solo effort, so every language would really benefit from a native speaker taking a look! If you want to help, the [translation guide](translations/README.md) explains everything, and the [status page](translations/STATUS.md) shows how far each language has got.
+Axiris is currently available in 17 languages. The translations were a solo effort, so every language would really benefit from a native speaker taking a look! If you want to help, the [translation guide](translations/README.md) explains everything, and the [status page](translations/STATUS.md) shows how far each language has got.
 
 | LANGUAGE       | MAINTAINED BY          |
 |:---------------|:-----------------------|
 | **English**    | myself                 |
 | **Italian**    | myself                 |
+| **Chinese (Simplified)** | looking for you! |
 | **Dutch**      | looking for you!       |
 | **French**     | looking for you!       |
 | **German**     | looking for you!       |
+| **Hindi**      | looking for you!       |
 | **Indonesian** | looking for you!       |
 | **Japanese**   | looking for you!       |
 | **Korean**     | looking for you!       |
@@ -54,6 +56,7 @@ Axiris is currently available in 14 languages. The translations were a solo effo
 | **Russian**    | looking for you!       |
 | **Spanish**    | looking for you!       |
 | **Turkish**    | looking for you!       |
+| **Ukrainian**  | looking for you!       |
 | **Vietnamese** | looking for you!       |
 
 ## Download
