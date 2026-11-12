@@ -223,6 +223,7 @@
     <string name="knob_distance">距離</string>
     <string name="knob_knots">節</string>
     <string name="knob_veins">模様</string>
+    <string name="knob_gold">金</string>
     <string name="knob_density">密度</string>
     <string name="knob_lights">光</string>
     <string name="knob_focus">ぼかし</string>
@@ -270,6 +271,9 @@
     <string name="wallpaper_guilloche">ギョーシェ</string>
     <string name="wallpaper_brushed">ヘアライン加工</string>
     <string name="wallpaper_copper">槌目の銅</string>
+    <string name="wallpaper_damascus">ダマスカス鋼</string>
+    <string name="wallpaper_deep_sea">深い海</string>
+    <string name="wallpaper_cut_paper">切り絵</string>
     <string name="wallpaper_ferrofluid">磁性流体</string>
     <string name="wallpaper_bismuth">ビスマス</string>
     <string name="wallpaper_crackle">貫入釉</string>

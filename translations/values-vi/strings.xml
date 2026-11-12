@@ -222,6 +222,7 @@
     <string name="knob_distance">Khoảng cách</string>
     <string name="knob_knots">Mắt gỗ</string>
     <string name="knob_veins">Đường vân</string>
+    <string name="knob_gold">Vàng</string>
     <string name="knob_density">Mật độ</string>
     <string name="knob_lights">Đèn</string>
     <string name="knob_focus">Độ mờ</string>
@@ -269,6 +270,9 @@
     <string name="wallpaper_guilloche">Guilloché</string>
     <string name="wallpaper_brushed">Kim loại xước</string>
     <string name="wallpaper_copper">Đồng gò</string>
+    <string name="wallpaper_damascus">Thép Damascus</string>
+    <string name="wallpaper_deep_sea">Nước sâu</string>
+    <string name="wallpaper_cut_paper">Giấy cắt</string>
     <string name="wallpaper_ferrofluid">Chất lỏng từ tính</string>
     <string name="wallpaper_bismuth">Bitmut</string>
     <string name="wallpaper_crackle">Men rạn</string>

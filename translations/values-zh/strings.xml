@@ -223,6 +223,7 @@
     <string name="knob_distance">距离</string>
     <string name="knob_knots">木节</string>
     <string name="knob_veins">纹路</string>
+    <string name="knob_gold">金</string>
     <string name="knob_density">密度</string>
     <string name="knob_lights">灯光</string>
     <string name="knob_focus">虚化</string>
@@ -270,6 +271,9 @@
     <string name="wallpaper_guilloche">玑镂纹</string>
     <string name="wallpaper_brushed">拉丝金属</string>
     <string name="wallpaper_copper">锤纹铜</string>
+    <string name="wallpaper_damascus">大马士革钢</string>
+    <string name="wallpaper_deep_sea">深海</string>
+    <string name="wallpaper_cut_paper">剪纸</string>
     <string name="wallpaper_ferrofluid">磁流体</string>
     <string name="wallpaper_bismuth">铋晶体</string>
     <string name="wallpaper_crackle">开片釉</string>

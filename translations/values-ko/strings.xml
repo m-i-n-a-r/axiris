@@ -223,6 +223,7 @@
     <string name="knob_distance">거리</string>
     <string name="knob_knots">옹이</string>
     <string name="knob_veins">결</string>
+    <string name="knob_gold">금</string>
     <string name="knob_density">밀도</string>
     <string name="knob_lights">불빛</string>
     <string name="knob_focus">흐림</string>
@@ -270,6 +271,9 @@
     <string name="wallpaper_guilloche">기요셰</string>
     <string name="wallpaper_brushed">헤어라인 금속</string>
     <string name="wallpaper_copper">망치질한 구리</string>
+    <string name="wallpaper_damascus">다마스쿠스 강철</string>
+    <string name="wallpaper_deep_sea">깊은 바다</string>
+    <string name="wallpaper_cut_paper">종이 오리기</string>
     <string name="wallpaper_ferrofluid">자성 유체</string>
     <string name="wallpaper_bismuth">비스무트</string>
     <string name="wallpaper_crackle">빙렬 유약</string>

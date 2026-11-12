@@ -255,6 +255,7 @@
     <string name="knob_distance">Відстань</string>
     <string name="knob_knots">Сучки</string>
     <string name="knob_veins">Прожилки</string>
+    <string name="knob_gold">Золото</string>
     <string name="knob_density">Щільність</string>
     <string name="knob_lights">Вогні</string>
     <string name="knob_focus">Розмиття</string>
@@ -311,6 +312,9 @@
     <string name="wallpaper_guilloche">Гільоше</string>
     <string name="wallpaper_brushed">Шліфований метал</string>
     <string name="wallpaper_copper">Карбована мідь</string>
+    <string name="wallpaper_damascus">Дамаська сталь</string>
+    <string name="wallpaper_deep_sea">Глибока вода</string>
+    <string name="wallpaper_cut_paper">Вирізаний папір</string>
     <string name="wallpaper_ferrofluid">Ферорідина</string>
     <string name="wallpaper_bismuth">Вісмут</string>
     <string name="wallpaper_crackle">Кракелюр</string>

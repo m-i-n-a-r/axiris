@@ -224,6 +224,7 @@
     <string name="knob_distance">Afstand</string>
     <string name="knob_knots">Kwasten</string>
     <string name="knob_veins">Aders</string>
+    <string name="knob_gold">Goud</string>
     <string name="knob_density">Dichtheid</string>
     <string name="knob_lights">Lichtjes</string>
     <string name="knob_focus">Vervaging</string>
@@ -274,6 +275,9 @@
     <string name="wallpaper_guilloche">Guilloché</string>
     <string name="wallpaper_brushed">Geborsteld metaal</string>
     <string name="wallpaper_copper">Gehamerd koper</string>
+    <string name="wallpaper_damascus">Damascusstaal</string>
+    <string name="wallpaper_deep_sea">Diep water</string>
+    <string name="wallpaper_cut_paper">Geknipt papier</string>
     <string name="wallpaper_ferrofluid">Ferrovloeistof</string>
     <string name="wallpaper_bismuth">Bismut</string>
     <string name="wallpaper_crackle">Craquelé-glazuur</string>

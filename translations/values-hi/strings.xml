@@ -224,6 +224,7 @@
     <string name="knob_distance">दूरी</string>
     <string name="knob_knots">गाँठें</string>
     <string name="knob_veins">नसें</string>
+    <string name="knob_gold">सोना</string>
     <string name="knob_density">घनत्व</string>
     <string name="knob_lights">रोशनियाँ</string>
     <string name="knob_focus">धुंधलापन</string>
@@ -274,6 +275,9 @@
     <string name="wallpaper_guilloche">गिलोशे</string>
     <string name="wallpaper_brushed">ब्रश की हुई धातु</string>
     <string name="wallpaper_copper">पीटा हुआ तांबा</string>
+    <string name="wallpaper_damascus">दमिश्क इस्पात</string>
+    <string name="wallpaper_deep_sea">गहरा पानी</string>
+    <string name="wallpaper_cut_paper">कटा हुआ काग़ज़</string>
     <string name="wallpaper_ferrofluid">फेरोफ्लुइड</string>
     <string name="wallpaper_bismuth">बिस्मथ</string>
     <string name="wallpaper_crackle">क्रैकल ग्लेज़</string>

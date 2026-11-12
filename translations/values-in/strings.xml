@@ -223,6 +223,7 @@
     <string name="knob_distance">Jarak</string>
     <string name="knob_knots">Mata kayu</string>
     <string name="knob_veins">Urat</string>
+    <string name="knob_gold">Emas</string>
     <string name="knob_density">Kepadatan</string>
     <string name="knob_lights">Lampu</string>
     <string name="knob_focus">Keburaman</string>
@@ -270,6 +271,9 @@
     <string name="wallpaper_guilloche">Guilloché</string>
     <string name="wallpaper_brushed">Logam disikat</string>
     <string name="wallpaper_copper">Tembaga tempa</string>
+    <string name="wallpaper_damascus">Baja Damaskus</string>
+    <string name="wallpaper_deep_sea">Laut dalam</string>
+    <string name="wallpaper_cut_paper">Kertas potong</string>
     <string name="wallpaper_ferrofluid">Ferofluida</string>
     <string name="wallpaper_bismuth">Bismut</string>
     <string name="wallpaper_crackle">Glasir retak</string>

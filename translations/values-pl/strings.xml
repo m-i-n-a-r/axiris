@@ -255,6 +255,7 @@
     <string name="knob_distance">Odległość</string>
     <string name="knob_knots">Sęki</string>
     <string name="knob_veins">Żyłki</string>
+    <string name="knob_gold">Złoto</string>
     <string name="knob_density">Gęstość</string>
     <string name="knob_lights">Światła</string>
     <string name="knob_focus">Rozmycie</string>
@@ -311,6 +312,9 @@
     <string name="wallpaper_guilloche">Guilloche</string>
     <string name="wallpaper_brushed">Szczotkowany metal</string>
     <string name="wallpaper_copper">Kuta miedź</string>
+    <string name="wallpaper_damascus">Stal damasceńska</string>
+    <string name="wallpaper_deep_sea">Głęboka woda</string>
+    <string name="wallpaper_cut_paper">Wycinanka</string>
     <string name="wallpaper_ferrofluid">Ferrofluid</string>
     <string name="wallpaper_bismuth">Bizmut</string>
     <string name="wallpaper_crackle">Szkliwo craquelé</string>

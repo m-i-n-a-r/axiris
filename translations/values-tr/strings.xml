@@ -252,6 +252,7 @@
     <string name="knob_distance">Uzaklık</string>
     <string name="knob_knots">Budaklar</string>
     <string name="knob_veins">Damarlar</string>
+    <string name="knob_gold">Altın</string>
     <string name="knob_density">Yoğunluk</string>
     <string name="knob_lights">Işıklar</string>
     <string name="knob_focus">Bulanıklık</string>
@@ -302,6 +303,9 @@
     <string name="wallpaper_guilloche">Guilloche</string>
     <string name="wallpaper_brushed">Fırçalanmış metal</string>
     <string name="wallpaper_copper">Dövme bakır</string>
+    <string name="wallpaper_damascus">Şam çeliği</string>
+    <string name="wallpaper_deep_sea">Derin su</string>
+    <string name="wallpaper_cut_paper">Kesilmiş kâğıt</string>
     <string name="wallpaper_ferrofluid">Ferroakışkan</string>
     <string name="wallpaper_bismuth">Bizmut</string>
     <string name="wallpaper_crackle">Çatlak sır</string>

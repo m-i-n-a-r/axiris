@@ -224,6 +224,7 @@
     <string name="knob_distance">Distancia</string>
     <string name="knob_knots">Nudos</string>
     <string name="knob_veins">Vetas</string>
+    <string name="knob_gold">Oro</string>
     <string name="knob_density">Densidad</string>
     <string name="knob_lights">Luces</string>
     <string name="knob_focus">Desenfoque</string>
@@ -277,6 +278,9 @@
     <string name="wallpaper_guilloche">Guilloché</string>
     <string name="wallpaper_brushed">Metal cepillado</string>
     <string name="wallpaper_copper">Cobre martillado</string>
+    <string name="wallpaper_damascus">Acero de Damasco</string>
+    <string name="wallpaper_deep_sea">Aguas profundas</string>
+    <string name="wallpaper_cut_paper">Papel recortado</string>
     <string name="wallpaper_ferrofluid">Ferrofluido</string>
     <string name="wallpaper_bismuth">Bismuto</string>
     <string name="wallpaper_crackle">Esmalte craquelado</string>
